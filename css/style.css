@@ -100,7 +100,7 @@ img{
 /*NEWS
 -----------------------------------------------*/
 #news{
-    background-image: url(../images/news-bg.jpg);
+    background-image: url(https://github.com/koguma-yuki/wcb-cafe/blob/main/images/news-bg.jpg?raw=true);
     height: 270px;
     margin-bottom: 40px;
 }
